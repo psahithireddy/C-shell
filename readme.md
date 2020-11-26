@@ -7,7 +7,8 @@ code is written in modular fashion.
 
 TO COMPILE :
     make
-EXECUTE:
+    
+RUN:
     ./a.out
 
 PROMPT:
